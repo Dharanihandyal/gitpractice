@@ -5,5 +5,8 @@ def addition(a,b):
 def multiplication(a,b):
     return a*b
 
+
+def div(a,b):
+    return a/b
 # conformed
 # just checking
